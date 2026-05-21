@@ -11,7 +11,7 @@ I build production-ready AI systems and modern software applications. Currently 
 📄 **Published NLP Research:** Legal Document Summarization using BART-Large  
 → Improved ROUGE-1 scores from **0.191 → 0.539** (182% improvement)  
 → Published in **IJCRT, March 2024**  
-→ [📎 Read Paper](🔗 ADD_YOUR_PAPER_LINK) | [💻 View Code](https://github.com/Ifatjagirdar/legalsum)
+→ [📎 Read Paper](🔗 https://ijcrt.org/papers/IJCRT24A3273.pdf) 
 
 ---
 
