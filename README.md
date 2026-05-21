@@ -43,23 +43,6 @@ Classic game reimagined with modern C++ standards, CMake build system, and unit 
 **Tech:** C++17 • CMake • Unit Testing • OOP Design Patterns  
 **Focus:** Clean architecture, memory safety, CERN application preparation
 
-### 🔹 [Smart Menu Recommendation System](🔗 ADD_REPO_LINK_IF_EXISTS) — AI SaaS MVP
-AI-powered menu recommendation engine for small restaurants and cafes  
-**Tech:** Python • FastAPI • Machine Learning • SQLite  
-**Status:** MVP completed, seeking pilot customers
-
-### 🔹 [Portfolio Website](https://github.com/Ifatjagirdar/portfolio) — Full-Stack Development
-Personal portfolio showcasing projects, skills, and research background  
-**Tech:** React • Node.js • Responsive Design  
-**Live:** [🔗 ADD_LIVE_LINK_WHEN_DEPLOYED]
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifatjagirdar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifatjagirdar&layout=compact&theme=radical&hide_border=true)
 
 ---
 
